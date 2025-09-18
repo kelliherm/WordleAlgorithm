@@ -1,16 +1,12 @@
 import json
 import math
 
-import numpy
 
-try:
-    from . import game
-except ImportError:
-    import game
+from .game import Game
 
 class ComputerSolve:
     def __init__(self, verbose: bool=False):
-        self.game = game.Game(name="Computer")
+        self.game = Game(name="Computer")
         self.verbose = verbose
         # Initialize basic attributes
         self.possible_words = set(self.game.legal_words)
@@ -114,13 +110,13 @@ class ComputerSolve:
                 result[word] = expected_value
                 if self.verbose:
                     print(word, expected_value)
-            with open("wordle\\first_guess.json", "w") as file:
+            with open("data\\first_guess.json", "w") as file:
                 json.dump(result, file, indent=4)
                 file.close()
         
         if "r" in mode:
             try:
-                with open("wordle\\first_guess.json", "r") as file:
+                with open("data\\first_guess.json", "r") as file:
                     self.guess_data = json.load(file)
                 self.guess_data = sorted(self.guess_data.items(), key=lambda item: item[1], reverse=True)
                 if self.verbose:
@@ -175,7 +171,7 @@ class ComputerSolve:
                 print(f"Result {result_pattern}: {len(possible_words)} words -> {best_guess} (entropy: {best_entropy:.3f})")
         
         # Save to file
-        with open("wordle\\second_guess.json", "w") as file:
+        with open("data\\second_guess.json", "w") as file:
             json.dump(second_guess_data, file, indent=4)
             file.close()
         
@@ -246,7 +242,7 @@ class ComputerSolve:
     def reset(self):
         """Reset the game state for a new round"""
         # Reset the game instance
-        self.game = game.Game(name="Computer")
+        self.game = Game(name="Computer")
         
         # Reset solver state
         self.possible_words = set(self.game.legal_words)
@@ -261,7 +257,7 @@ class ComputerSolve:
         """Initialize the solver with optimal first guesses and prepare for solving"""
         # Load or generate optimal first guess data
         try:
-            with open("wordle\\first_guess.json", "r") as file:
+            with open("data\\first_guess.json", "r") as file:
                 self.first_guess_data = json.load(file)
                 self.first_guess_data = sorted(self.first_guess_data.items(), key=lambda item: item[1], reverse=True)
                 if self.verbose:
@@ -270,13 +266,13 @@ class ComputerSolve:
             if self.verbose:
                 print("First guess file not found, generating optimal first guesses...")
             self.get_top_guesses(mode="w")  # Generate and save first guesses
-            with open("wordle\\first_guess.json", "r") as file:
+            with open("data\\first_guess.json", "r") as file:
                 self.first_guess_data = json.load(file)
                 self.first_guess_data = sorted(self.first_guess_data.items(), key=lambda item: item[1], reverse=True)
         
         # Load or generate optimal second guess data
         try:
-            with open("wordle\\second_guess.json", "r") as file:
+            with open("data\\second_guess.json", "r") as file:
                 self.second_guess_data = json.load(file)
                 if self.verbose:
                     print("Loaded optimal second guesses from file")
@@ -284,7 +280,7 @@ class ComputerSolve:
             if self.verbose:
                 print("Second guess file not found, generating optimal second guesses...")
             self.precompute_second_guesses(self.first_guess_data[0][0])  # Use best first guess
-            with open("wordle\\second_guess.json", "r") as file:
+            with open("data\\second_guess.json", "r") as file:
                 self.second_guess_data = json.load(file)
         
         # Reset possible words (starts with all legal words)

@@ -1,10 +1,14 @@
 [project]
 name = "wordle"
-version = "0.0.0"
-description = "A wordle game in Python with a computer solver."
+version = "1.0.0"
+description = "A Wordle game implementation with an intelligent computer solver using information theory"
 readme = "README.md"
-requires-python = ">=3.13"
+license = {file = "LICENSE"}
+requires-python = ">=3.8"
+authors = [
+    {name = "Matt Kelliher", email = "matthewlkelliher@gmail.com"},
+]
+keywords = ["wordle", "game", "solver", "information-theory", "entropy"]
 dependencies = [
     "colorama>=0.4.6",
-    "numpy>=2.3.3",
 ]

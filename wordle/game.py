@@ -4,7 +4,7 @@ import os
 import platform
 import random
 
-import board
+import wordle.board as board
 
 class Game:
     def __init__(self, name: str="Player") -> None:
@@ -13,7 +13,7 @@ class Game:
         self.guess_number = 1
         self.name = name
 
-        with open("wordle\\words.json", "r") as f:
+        with open("data\\words.json", "r") as f:
             self.legal_words = json.load(f)
             f.close()
         

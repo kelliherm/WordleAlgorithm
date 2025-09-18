@@ -1,0 +1,1062 @@
+{
+    "BGBGB": {
+        "best_guess": "LOWND",
+        "entropy": 3.675664231605031,
+        "possible_words_count": 137
+    },
+    "BGBBB": {
+        "best_guess": "LINDY",
+        "entropy": 4.742337682225314,
+        "possible_words_count": 403
+    },
+    "BGGBB": {
+        "best_guess": "COMBY",
+        "entropy": 4.059520576451753,
+        "possible_words_count": 95
+    },
+    "YGGBB": {
+        "best_guess": "ALWAY",
+        "entropy": 3.084962500721156,
+        "possible_words_count": 12
+    },
+    "BYBBB": {
+        "best_guess": "COLIN",
+        "entropy": 5.6733850013057685,
+        "possible_words_count": 586
+    },
+    "BYBBG": {
+        "best_guess": "ALAMO",
+        "entropy": 4.399492247367786,
+        "possible_words_count": 330
+    },
+    "YYBBB": {
+        "best_guess": "LIANA",
+        "entropy": 4.846812518334058,
+        "possible_words_count": 125
+    },
+    "BYBYY": {
+        "best_guess": "SPALD",
+        "entropy": 4.193340307413818,
+        "possible_words_count": 81
+    },
+    "BYBBY": {
+        "best_guess": "PILCH",
+        "entropy": 4.620935580682423,
+        "possible_words_count": 166
+    },
+    "YYBYB": {
+        "best_guess": "PLANE",
+        "entropy": 4.254035234540353,
+        "possible_words_count": 72
+    },
+    "BYBGB": {
+        "best_guess": "BLIND",
+        "entropy": 4.213340441068114,
+        "possible_words_count": 50
+    },
+    "BYBGG": {
+        "best_guess": "CLIMB",
+        "entropy": 3.262683189255492,
+        "possible_words_count": 25
+    },
+    "BYBYB": {
+        "best_guess": "NEELD",
+        "entropy": 4.864644913310895,
+        "possible_words_count": 274
+    },
+    "BYYYB": {
+        "best_guess": "BEARD",
+        "entropy": 4.122798816399687,
+        "possible_words_count": 154
+    },
+    "BYYYG": {
+        "best_guess": "GNARL",
+        "entropy": 2.795855909956761,
+        "possible_words_count": 27
+    },
+    "YYBYG": {
+        "best_guess": "BEGAN",
+        "entropy": 2.7925862263697305,
+        "possible_words_count": 19
+    },
+    "BYYBB": {
+        "best_guess": "BROIL",
+        "entropy": 4.607785069267835,
+        "possible_words_count": 246
+    },
+    "BYYGB": {
+        "best_guess": "UNLID",
+        "entropy": 3.5132696895151088,
+        "possible_words_count": 25
+    },
+    "YYBGB": {
+        "best_guess": "CLUNG",
+        "entropy": 2.521640636343318,
+        "possible_words_count": 7
+    },
+    "YYYBB": {
+        "best_guess": "FRONT",
+        "entropy": 3.857440682680797,
+        "possible_words_count": 53
+    },
+    "BYGBB": {
+        "best_guess": "MONAD",
+        "entropy": 4.2028106734738735,
+        "possible_words_count": 82
+    },
+    "BYGBG": {
+        "best_guess": "KOMBU",
+        "entropy": 3.2089873002587996,
+        "possible_words_count": 22
+    },
+    "BYBGY": {
+        "best_guess": "ANKHS",
+        "entropy": 2.725480556997868,
+        "possible_words_count": 9
+    },
+    "YYBBY": {
+        "best_guess": "CLAPT",
+        "entropy": 3.972342468958756,
+        "possible_words_count": 68
+    },
+    "YYBBG": {
+        "best_guess": "ABOIL",
+        "entropy": 3.5194067939066254,
+        "possible_words_count": 61
+    },
+    "BYGGB": {
+        "best_guess": "CUPID",
+        "entropy": 3.0,
+        "possible_words_count": 8
+    },
+    "BYGGG": {
+        "best_guess": "APPUY",
+        "entropy": 2.0,
+        "possible_words_count": 4
+    },
+    "BYBYG": {
+        "best_guess": "LEMAN",
+        "entropy": 4.147293491849826,
+        "possible_words_count": 81
+    },
+    "BYGYB": {
+        "best_guess": "MEDIA",
+        "entropy": 3.3273399000835093,
+        "possible_words_count": 21
+    },
+    "BYGYG": {
+        "best_guess": "AAHED",
+        "entropy": 1.0,
+        "possible_words_count": 2
+    },
+    "BYYYY": {
+        "best_guess": "SWIPE",
+        "entropy": 3.4360119290361792,
+        "possible_words_count": 27
+    },
+    "BYYBG": {
+        "best_guess": "DRACO",
+        "entropy": 3.4528684017482463,
+        "possible_words_count": 101
+    },
+    "YYGBB": {
+        "best_guess": "IMPOT",
+        "entropy": 3.238901256602631,
+        "possible_words_count": 13
+    },
+    "YYYGB": {
+        "best_guess": "ALEFT",
+        "entropy": 2.321928094887362,
+        "possible_words_count": 5
+    },
+    "YYGBG": {
+        "best_guess": "AIRTS",
+        "entropy": 0,
+        "possible_words_count": 1
+    },
+    "YYYYB": {
+        "best_guess": "PETRE",
+        "entropy": 3.3962915290459277,
+        "possible_words_count": 28
+    },
+    "YYBGG": {
+        "best_guess": "ANTES",
+        "entropy": 0,
+        "possible_words_count": 1
+    },
+    "YYYYG": {
+        "best_guess": "ARETS",
+        "entropy": 0,
+        "possible_words_count": 1
+    },
+    "BYYBY": {
+        "best_guess": "POUCH",
+        "entropy": 3.7007702781318037,
+        "possible_words_count": 41
+    },
+    "BYYGG": {
+        "best_guess": "AALII",
+        "entropy": 1.584962500721156,
+        "possible_words_count": 3
+    },
+    "YYGGB": {
+        "best_guess": "ARRET",
+        "entropy": 0,
+        "possible_words_count": 1
+    },
+    "BYYGY": {
+        "best_guess": "ALKYD",
+        "entropy": 2.321928094887362,
+        "possible_words_count": 5
+    },
+    "YYYBG": {
+        "best_guess": "BRADS",
+        "entropy": 2.5216406363433186,
+        "possible_words_count": 7
+    },
+    "YYYBY": {
+        "best_guess": "STILT",
+        "entropy": 2.9311090919354865,
+        "possible_words_count": 19
+    },
+    "YYBGY": {
+        "best_guess": "AAHED",
+        "entropy": 1.0,
+        "possible_words_count": 2
+    },
+    "YYYGY": {
+        "best_guess": "ASTER",
+        "entropy": 0,
+        "possible_words_count": 1
+    },
+    "BGBBG": {
+        "best_guess": "PLINK",
+        "entropy": 4.0900459604752415,
+        "possible_words_count": 340
+    },
+    "BGBGG": {
+        "best_guess": "LYMPH",
+        "entropy": 2.5727434882260436,
+        "possible_words_count": 119
+    },
+    "BGBYB": {
+        "best_guess": "CLING",
+        "entropy": 4.081694968861053,
+        "possible_words_count": 85
+    },
+    "BGBYG": {
+        "best_guess": "AAHED",
+        "entropy": 1.0,
+        "possible_words_count": 2
+    },
+    "YGBBB": {
+        "best_guess": "CLINT",
+        "entropy": 4.117000299267656,
+        "possible_words_count": 107
+    },
+    "YGBBG": {
+        "best_guess": "UNTIL",
+        "entropy": 2.9537682952789766,
+        "possible_words_count": 62
+    },
+    "BGBBY": {
+        "best_guess": "LYSIN",
+        "entropy": 4.281607134407507,
+        "possible_words_count": 111
+    },
+    "BGYBB": {
+        "best_guess": "ROBIN",
+        "entropy": 4.183473493443615,
+        "possible_words_count": 91
+    },
+    "BGYGB": {
+        "best_guess": "GLYPH",
+        "entropy": 2.9377909545658865,
+        "possible_words_count": 85
+    },
+    "BGGYB": {
+        "best_guess": "GLEBY",
+        "entropy": 2.8962406251802886,
+        "possible_words_count": 24
+    },
+    "BGGBG": {
+        "best_guess": "PLINK",
+        "entropy": 3.002680848575094,
+        "possible_words_count": 82
+    },
+    "BGGGB": {
+        "best_guess": "DOPER",
+        "entropy": 2.846525004558637,
+        "possible_words_count": 27
+    },
+    "BGGGG": {
+        "best_guess": "BANDH",
+        "entropy": 1.5058762556041068,
+        "possible_words_count": 13
+    },
+    "BGBGY": {
+        "best_guess": "SLOYD",
+        "entropy": 3.170134892428193,
+        "possible_words_count": 22
+    },
+    "BGYGY": {
+        "best_guess": "BASKS",
+        "entropy": 2.0989295636909353,
+        "possible_words_count": 15
+    },
+    "BGBYY": {
+        "best_guess": "SLUSH",
+        "entropy": 3.8062389286533893,
+        "possible_words_count": 30
+    },
+    "YGBBY": {
+        "best_guess": "SHINY",
+        "entropy": 3.9812969449433746,
+        "possible_words_count": 34
+    },
+    "YGBYY": {
+        "best_guess": "BUCHU",
+        "entropy": 2.2516291673878226,
+        "possible_words_count": 6
+    },
+    "YGBGB": {
+        "best_guess": "DELFT",
+        "entropy": 3.1414460711655217,
+        "possible_words_count": 20
+    },
+    "YGBGG": {
+        "best_guess": "CHYND",
+        "entropy": 2.049452072789394,
+        "possible_words_count": 11
+    },
+    "YGBYB": {
+        "best_guess": "HILUM",
+        "entropy": 2.8553885422075336,
+        "possible_words_count": 12
+    },
+    "BGYBG": {
+        "best_guess": "RUING",
+        "entropy": 3.7722069188795833,
+        "possible_words_count": 45
+    },
+    "YYBYY": {
+        "best_guess": "STALK",
+        "entropy": 3.524397470347699,
+        "possible_words_count": 32
+    },
+    "BBBYB": {
+        "best_guess": "DOILY",
+        "entropy": 5.4541164155016615,
+        "possible_words_count": 638
+    },
+    "BBBYG": {
+        "best_guess": "NEELD",
+        "entropy": 4.518859328772158,
+        "possible_words_count": 294
+    },
+    "BBBGB": {
+        "best_guess": "INDOL",
+        "entropy": 4.893114710725291,
+        "possible_words_count": 419
+    },
+    "BBBGG": {
+        "best_guess": "DOLCI",
+        "entropy": 3.928155304045109,
+        "possible_words_count": 351
+    },
+    "BBYYG": {
+        "best_guess": "WEIRD",
+        "entropy": 3.627583409225123,
+        "possible_words_count": 91
+    },
+    "BBYYB": {
+        "best_guess": "DEICE",
+        "entropy": 4.745862689034688,
+        "possible_words_count": 241
+    },
+    "YBBYG": {
+        "best_guess": "NEELD",
+        "entropy": 3.230868448276837,
+        "possible_words_count": 93
+    },
+    "YBBYB": {
+        "best_guess": "FLITT",
+        "entropy": 4.648362633785749,
+        "possible_words_count": 161
+    },
+    "YBBGB": {
+        "best_guess": "NOULD",
+        "entropy": 4.530708738011999,
+        "possible_words_count": 75
+    },
+    "BBGGG": {
+        "best_guess": "COYPU",
+        "entropy": 2.9741267454875846,
+        "possible_words_count": 43
+    },
+    "YBGGB": {
+        "best_guess": "ABCEE",
+        "entropy": 2.321928094887362,
+        "possible_words_count": 5
+    },
+    "BBGYG": {
+        "best_guess": "PLONK",
+        "entropy": 3.1742633473298807,
+        "possible_words_count": 52
+    },
+    "BBGYB": {
+        "best_guess": "COGIE",
+        "entropy": 3.929465936230805,
+        "possible_words_count": 100
+    },
+    "YBGYB": {
+        "best_guess": "BENCH",
+        "entropy": 2.75,
+        "possible_words_count": 8
+    },
+    "BBBGY": {
+        "best_guess": "SOLID",
+        "entropy": 4.334873635789442,
+        "possible_words_count": 101
+    },
+    "YBBGY": {
+        "best_guess": "OLENT",
+        "entropy": 3.3564924137968246,
+        "possible_words_count": 22
+    },
+    "YBBYY": {
+        "best_guess": "SPITE",
+        "entropy": 4.153348784591653,
+        "possible_words_count": 96
+    },
+    "BBBYY": {
+        "best_guess": "SPOIL",
+        "entropy": 4.83130239246306,
+        "possible_words_count": 215
+    },
+    "YBBGG": {
+        "best_guess": "CIBOL",
+        "entropy": 3.068453957701922,
+        "possible_words_count": 40
+    },
+    "BBYGB": {
+        "best_guess": "POIND",
+        "entropy": 4.415006546991583,
+        "possible_words_count": 283
+    },
+    "YBBBB": {
+        "best_guess": "COLIN",
+        "entropy": 5.276784744164072,
+        "possible_words_count": 261
+    },
+    "YBBBG": {
+        "best_guess": "SOLUM",
+        "entropy": 4.321191250709143,
+        "possible_words_count": 174
+    },
+    "BBBBG": {
+        "best_guess": "LOUND",
+        "entropy": 5.087475704623677,
+        "possible_words_count": 814
+    },
+    "BBBBB": {
+        "best_guess": "COLIN",
+        "entropy": 5.947838825235584,
+        "possible_words_count": 856
+    },
+    "BBGBB": {
+        "best_guess": "COLIN",
+        "entropy": 4.674475971437321,
+        "possible_words_count": 111
+    },
+    "BBGBG": {
+        "best_guess": "BIDON",
+        "entropy": 4.116447015871545,
+        "possible_words_count": 127
+    },
+    "BBGYY": {
+        "best_guess": "SOUCE",
+        "entropy": 3.432262897024269,
+        "possible_words_count": 30
+    },
+    "BBGBY": {
+        "best_guess": "COUGH",
+        "entropy": 4.326465890981192,
+        "possible_words_count": 36
+    },
+    "YBGBB": {
+        "best_guess": "BODHI",
+        "entropy": 3.4632805178108104,
+        "possible_words_count": 21
+    },
+    "BBBBY": {
+        "best_guess": "SOILY",
+        "entropy": 5.294832120676906,
+        "possible_words_count": 301
+    },
+    "YBYGB": {
+        "best_guess": "NOTUM",
+        "entropy": 3.5567521843254166,
+        "possible_words_count": 38
+    },
+    "YBBBY": {
+        "best_guess": "MOUNT",
+        "entropy": 4.663135788827756,
+        "possible_words_count": 145
+    },
+    "YBYYB": {
+        "best_guess": "NIECE",
+        "entropy": 4.073348800786664,
+        "possible_words_count": 54
+    },
+    "BBYBB": {
+        "best_guess": "BOUND",
+        "entropy": 5.175292772316932,
+        "possible_words_count": 262
+    },
+    "BBYBG": {
+        "best_guess": "PROUD",
+        "entropy": 4.373510512373534,
+        "possible_words_count": 139
+    },
+    "YBYBB": {
+        "best_guess": "FRUIT",
+        "entropy": 4.517687164990342,
+        "possible_words_count": 64
+    },
+    "BBGGB": {
+        "best_guess": "DUOMI",
+        "entropy": 3.9398420400253062,
+        "possible_words_count": 53
+    },
+    "YBGBG": {
+        "best_guess": "BIPOD",
+        "entropy": 2.4508257945180887,
+        "possible_words_count": 12
+    },
+    "BBYGG": {
+        "best_guess": "URSID",
+        "entropy": 3.37380430417625,
+        "possible_words_count": 53
+    },
+    "BBYYY": {
+        "best_guess": "POISE",
+        "entropy": 4.031529087305852,
+        "possible_words_count": 47
+    },
+    "BBYBY": {
+        "best_guess": "SHOYU",
+        "entropy": 4.312770780294447,
+        "possible_words_count": 54
+    },
+    "YBYBG": {
+        "best_guess": "ROSTI",
+        "entropy": 3.4970558484728045,
+        "possible_words_count": 23
+    },
+    "YBYBY": {
+        "best_guess": "SPOUT",
+        "entropy": 4.085588016574086,
+        "possible_words_count": 35
+    },
+    "BYGBY": {
+        "best_guess": "UPLAY",
+        "entropy": 3.08232813685843,
+        "possible_words_count": 21
+    },
+    "YBGBY": {
+        "best_guess": "WHUMP",
+        "entropy": 3.2195282822995472,
+        "possible_words_count": 17
+    },
+    "BGYYB": {
+        "best_guess": "RINDY",
+        "entropy": 3.5599000019230833,
+        "possible_words_count": 27
+    },
+    "YGGGB": {
+        "best_guess": "CARET",
+        "entropy": 0,
+        "possible_words_count": 1
+    },
+    "BGGYY": {
+        "best_guess": "SCAMP",
+        "entropy": 2.321928094887362,
+        "possible_words_count": 5
+    },
+    "YGGYB": {
+        "best_guess": "ABATE",
+        "entropy": 1.584962500721156,
+        "possible_words_count": 3
+    },
+    "YGGBG": {
+        "best_guess": "CHAMP",
+        "entropy": 2.0,
+        "possible_words_count": 8
+    },
+    "YGYGB": {
+        "best_guess": "DOMAL",
+        "entropy": 2.403677461028802,
+        "possible_words_count": 14
+    },
+    "YBGYG": {
+        "best_guess": "CAPON",
+        "entropy": 2.0,
+        "possible_words_count": 4
+    },
+    "YBYYY": {
+        "best_guess": "PEISE",
+        "entropy": 3.1556390622295662,
+        "possible_words_count": 16
+    },
+    "YYGYB": {
+        "best_guess": "DERAT",
+        "entropy": 0,
+        "possible_words_count": 1
+    },
+    "BBYGY": {
+        "best_guess": "SOILY",
+        "entropy": 3.546064307393621,
+        "possible_words_count": 51
+    },
+    "BGGYG": {
+        "best_guess": "ABAND",
+        "entropy": 1.584962500721156,
+        "possible_words_count": 3
+    },
+    "YGGYY": {
+        "best_guess": "EARST",
+        "entropy": 0,
+        "possible_words_count": 1
+    },
+    "YGBYG": {
+        "best_guess": "AAHED",
+        "entropy": 1.0,
+        "possible_words_count": 2
+    },
+    "YBYGY": {
+        "best_guess": "ACTOR",
+        "entropy": 2.0,
+        "possible_words_count": 4
+    },
+    "YBYYG": {
+        "best_guess": "AENEI",
+        "entropy": 1.584962500721156,
+        "possible_words_count": 3
+    },
+    "YGYBB": {
+        "best_guess": "LITHO",
+        "entropy": 3.1219280948873624,
+        "possible_words_count": 10
+    },
+    "BGGBY": {
+        "best_guess": "HAIKA",
+        "entropy": 2.75,
+        "possible_words_count": 8
+    },
+    "YGGBY": {
+        "best_guess": "ABACK",
+        "entropy": 1.0,
+        "possible_words_count": 2
+    },
+    "BGYYG": {
+        "best_guess": "LAERS",
+        "entropy": 0,
+        "possible_words_count": 1
+    },
+    "YBGYY": {
+        "best_guess": "ABAMP",
+        "entropy": 1.0,
+        "possible_words_count": 2
+    },
+    "BGYGG": {
+        "best_guess": "PLACK",
+        "entropy": 1.7709505944546686,
+        "possible_words_count": 10
+    },
+    "YGYBG": {
+        "best_guess": "FOUTH",
+        "entropy": 2.521640636343318,
+        "possible_words_count": 7
+    },
+    "BGYYY": {
+        "best_guess": "ABACI",
+        "entropy": 1.584962500721156,
+        "possible_words_count": 3
+    },
+    "BGYBY": {
+        "best_guess": "COPRA",
+        "entropy": 2.807354922057604,
+        "possible_words_count": 7
+    },
+    "YGYBY": {
+        "best_guess": "AAHED",
+        "entropy": 1.0,
+        "possible_words_count": 2
+    },
+    "YGYGG": {
+        "best_guess": "RATES",
+        "entropy": 0,
+        "possible_words_count": 1
+    },
+    "YGYYB": {
+        "best_guess": "RATHE",
+        "entropy": 0,
+        "possible_words_count": 1
+    },
+    "YYYYY": {
+        "best_guess": "ABAFT",
+        "entropy": 2.0,
+        "possible_words_count": 4
+    },
+    "YBYGG": {
+        "best_guess": "AALII",
+        "entropy": 1.0,
+        "possible_words_count": 2
+    },
+    "YGBGY": {
+        "best_guess": "ABLED",
+        "entropy": 1.584962500721156,
+        "possible_words_count": 3
+    },
+    "BGGGY": {
+        "best_guess": "AAHED",
+        "entropy": 1.0,
+        "possible_words_count": 2
+    },
+    "BYGYY": {
+        "best_guess": "ACARI",
+        "entropy": 2.321928094887362,
+        "possible_words_count": 5
+    },
+    "YYGBY": {
+        "best_guess": "STUPA",
+        "entropy": 2.4040097573248604,
+        "possible_words_count": 11
+    },
+    "BBGGY": {
+        "best_guess": "EPODE",
+        "entropy": 3.165957320949175,
+        "possible_words_count": 20
+    },
+    "YYGYY": {
+        "best_guess": "STRAE",
+        "entropy": 0,
+        "possible_words_count": 1
+    },
+    "YBGGY": {
+        "best_guess": "ABAMP",
+        "entropy": 1.0,
+        "possible_words_count": 2
+    },
+    "GGBBG": {
+        "best_guess": "PULIK",
+        "entropy": 3.2492013382510905,
+        "possible_words_count": 37
+    },
+    "GGBBB": {
+        "best_guess": "KYLIN",
+        "entropy": 4.046761002949997,
+        "possible_words_count": 54
+    },
+    "GGYGB": {
+        "best_guess": "BLIMP",
+        "entropy": 1.879964948727111,
+        "possible_words_count": 9
+    },
+    "GGBGG": {
+        "best_guess": "BLACK",
+        "entropy": 1.7709505944546686,
+        "possible_words_count": 10
+    },
+    "GGBYB": {
+        "best_guess": "PICUL",
+        "entropy": 2.5216406363433186,
+        "possible_words_count": 7
+    },
+    "GGYBB": {
+        "best_guess": "AXIAL",
+        "entropy": 2.807354922057604,
+        "possible_words_count": 7
+    },
+    "GGBGB": {
+        "best_guess": "DEMPT",
+        "entropy": 2.725480556997868,
+        "possible_words_count": 9
+    },
+    "GGBYG": {
+        "best_guess": "TAELS",
+        "entropy": 0,
+        "possible_words_count": 1
+    },
+    "GGYBG": {
+        "best_guess": "TAHRS",
+        "entropy": 0,
+        "possible_words_count": 1
+    },
+    "GGBBY": {
+        "best_guess": "ASSAI",
+        "entropy": 2.321928094887362,
+        "possible_words_count": 5
+    },
+    "GGGBG": {
+        "best_guess": "NOPAL",
+        "entropy": 2.321928094887362,
+        "possible_words_count": 5
+    },
+    "GGGBB": {
+        "best_guess": "DOTTY",
+        "entropy": 2.75,
+        "possible_words_count": 8
+    },
+    "GGGGB": {
+        "best_guess": "TARED",
+        "entropy": 0,
+        "possible_words_count": 1
+    },
+    "GGGGG": {
+        "best_guess": "TARES",
+        "entropy": 0,
+        "possible_words_count": 1
+    },
+    "GGGYB": {
+        "best_guess": "AARGH",
+        "entropy": 1.0,
+        "possible_words_count": 2
+    },
+    "GGGBY": {
+        "best_guess": "TARSI",
+        "entropy": 0,
+        "possible_words_count": 1
+    },
+    "GGYBY": {
+        "best_guess": "TASAR",
+        "entropy": 0,
+        "possible_words_count": 1
+    },
+    "GGBGY": {
+        "best_guess": "TASED",
+        "entropy": 0,
+        "possible_words_count": 1
+    },
+    "GGYGY": {
+        "best_guess": "TASER",
+        "entropy": 0,
+        "possible_words_count": 1
+    },
+    "GGBYY": {
+        "best_guess": "ABYSS",
+        "entropy": 1.584962500721156,
+        "possible_words_count": 3
+    },
+    "GYBYB": {
+        "best_guess": "LEECH",
+        "entropy": 3.4613201402110083,
+        "possible_words_count": 18
+    },
+    "GYBYG": {
+        "best_guess": "DOMAL",
+        "entropy": 2.5,
+        "possible_words_count": 8
+    },
+    "GYBGB": {
+        "best_guess": "AALII",
+        "entropy": 1.584962500721156,
+        "possible_words_count": 3
+    },
+    "GYYYG": {
+        "best_guess": "TEARS",
+        "entropy": 0,
+        "possible_words_count": 1
+    },
+    "GYYYB": {
+        "best_guess": "DRAFT",
+        "entropy": 2.8464393446710154,
+        "possible_words_count": 10
+    },
+    "GYBYY": {
+        "best_guess": "ABELE",
+        "entropy": 2.0,
+        "possible_words_count": 4
+    },
+    "GBBYG": {
+        "best_guess": "UNETH",
+        "entropy": 3.010570934268484,
+        "possible_words_count": 19
+    },
+    "GBBYB": {
+        "best_guess": "WHINE",
+        "entropy": 4.481925526466464,
+        "possible_words_count": 67
+    },
+    "GBYYG": {
+        "best_guess": "EMERY",
+        "entropy": 2.5219280948873624,
+        "possible_words_count": 10
+    },
+    "GBBGG": {
+        "best_guess": "NOILY",
+        "entropy": 3.0372310857023406,
+        "possible_words_count": 31
+    },
+    "GBBGB": {
+        "best_guess": "POWND",
+        "entropy": 3.926551164055716,
+        "possible_words_count": 41
+    },
+    "GBBYY": {
+        "best_guess": "HOISE",
+        "entropy": 2.9219280948873623,
+        "possible_words_count": 10
+    },
+    "GBYYB": {
+        "best_guess": "PRINK",
+        "entropy": 3.763965742824081,
+        "possible_words_count": 27
+    },
+    "GYGYB": {
+        "best_guess": "AEGIS",
+        "entropy": 2.0,
+        "possible_words_count": 4
+    },
+    "GYGYG": {
+        "best_guess": "TERAS",
+        "entropy": 0,
+        "possible_words_count": 1
+    },
+    "GBGYB": {
+        "best_guess": "COMFY",
+        "entropy": 2.807354922057604,
+        "possible_words_count": 7
+    },
+    "GBGGB": {
+        "best_guess": "AIYEE",
+        "entropy": 2.321928094887362,
+        "possible_words_count": 5
+    },
+    "GBGGG": {
+        "best_guess": "AEGYO",
+        "entropy": 2.0,
+        "possible_words_count": 4
+    },
+    "GBGYG": {
+        "best_guess": "FANUM",
+        "entropy": 2.0,
+        "possible_words_count": 4
+    },
+    "GBGYY": {
+        "best_guess": "ABBOT",
+        "entropy": 1.0,
+        "possible_words_count": 2
+    },
+    "GYBBB": {
+        "best_guess": "HINKY",
+        "entropy": 4.168465671110588,
+        "possible_words_count": 38
+    },
+    "GYBBG": {
+        "best_guess": "UHLAN",
+        "entropy": 3.2806390622295662,
+        "possible_words_count": 16
+    },
+    "GYYBB": {
+        "best_guess": "KRAIT",
+        "entropy": 3.6565647621309543,
+        "possible_words_count": 30
+    },
+    "GYYBG": {
+        "best_guess": "BRINY",
+        "entropy": 2.221251836004466,
+        "possible_words_count": 12
+    },
+    "GBBBB": {
+        "best_guess": "PIONY",
+        "entropy": 4.8654897806307735,
+        "possible_words_count": 81
+    },
+    "GBBBG": {
+        "best_guess": "PINKO",
+        "entropy": 3.9725912859036825,
+        "possible_words_count": 65
+    },
+    "GBYBB": {
+        "best_guess": "PROUL",
+        "entropy": 4.253212018409154,
+        "possible_words_count": 34
+    },
+    "GYGBB": {
+        "best_guess": "ALOHA",
+        "entropy": 2.321928094887362,
+        "possible_words_count": 5
+    },
+    "GBGBB": {
+        "best_guess": "BODHI",
+        "entropy": 3.4182958340544896,
+        "possible_words_count": 12
+    },
+    "GBYGB": {
+        "best_guess": "IRONY",
+        "entropy": 3.3190795706241745,
+        "possible_words_count": 25
+    },
+    "GBBBY": {
+        "best_guess": "CUISH",
+        "entropy": 3.277613436819116,
+        "possible_words_count": 11
+    },
+    "GBGBG": {
+        "best_guess": "MOURN",
+        "entropy": 3.077819531114783,
+        "possible_words_count": 16
+    },
+    "GYBBY": {
+        "best_guess": "ABACI",
+        "entropy": 1.584962500721156,
+        "possible_words_count": 3
+    },
+    "GYGBG": {
+        "best_guess": "TORAS",
+        "entropy": 0,
+        "possible_words_count": 1
+    },
+    "GBGBY": {
+        "best_guess": "ADDIO",
+        "entropy": 1.584962500721156,
+        "possible_words_count": 3
+    },
+    "GBBGY": {
+        "best_guess": "ABACK",
+        "entropy": 1.0,
+        "possible_words_count": 2
+    },
+    "GBYBG": {
+        "best_guess": "YOGIN",
+        "entropy": 3.577819531114783,
+        "possible_words_count": 16
+    },
+    "GYYBY": {
+        "best_guess": "TRASH",
+        "entropy": 0,
+        "possible_words_count": 1
+    },
+    "GBYGG": {
+        "best_guess": "ADIEU",
+        "entropy": 1.584962500721156,
+        "possible_words_count": 3
+    },
+    "GBYYY": {
+        "best_guess": "TREST",
+        "entropy": 0,
+        "possible_words_count": 1
+    },
+    "GBYBY": {
+        "best_guess": "ACIDY",
+        "entropy": 1.584962500721156,
+        "possible_words_count": 3
+    },
+    "GYBGG": {
+        "best_guess": "TWAES",
+        "entropy": 0,
+        "possible_words_count": 1
+    }
+}
