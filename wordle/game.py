@@ -28,10 +28,14 @@ class Game:
             os.system("clear")
         if message != "":
             print(message)
-        self.board.draw_board()
+        self.board.draw()
 
     def get_user_guess(self) -> str:
-        return input(f"What is {self.name}'s guess?  ").strip().upper()
+        guess = input(f"What is {self.name}'s guess?  ").strip().upper()
+        if guess not in self.legal_words:
+            print("Not a valid guess.")
+            return self.get_user_guess()
+        return guess
 
         # TODO Add error handling to user guess system, check value word, etc.
 
@@ -42,7 +46,7 @@ class Game:
 
             guess_key = self.return_guess_key(guess)
 
-            self.board.update_board(guess, guess_key)
+            self.board.update(guess, guess_key)
 
             if guess == self.hidden_word:
                 self.game_over = True

@@ -23,7 +23,7 @@ class Board:
             "RESET" : colorama.Style.RESET_ALL,
         }
     
-    def draw_board(self) -> None:
+    def draw(self) -> None:
         for row_index in range(6):
             print(row_index + 1, end="  ")
             if self.board[row_index] != []:
@@ -34,8 +34,11 @@ class Board:
                           end="",)
             print(self.colors["RESET"])
     
-    def update_board(self, guess: str, key: str) -> None:
+    def update(self, guess: str, key: str) -> None:
         for row_index in range(6):
             if self.board[row_index] == []:
                 self.board[row_index] = [guess, key]
                 break
+
+    def reset(self):
+        self.board = [[] for i in range(6)]
